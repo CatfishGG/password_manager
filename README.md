@@ -21,7 +21,7 @@ This is a Discord bot that can generate, save, and retrieve passwords. The bot u
 
 ```sh
 git clone https://github.com/CatfishGG/password_manager.git
-cd password-manager-discord-bot
+cd password_manager
 ```
 
 ### 2. Install Dependencies
